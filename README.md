@@ -6,7 +6,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=larissaangioni&theme=github-green-purple&border_radius=40&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larissaangioni&show_icons=true&theme=radical&title_color=d40292&text_color=11ef01&hide_border=true&locale=en&layout=compact" alt="larissaangioni" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larissaangioni&show_icons=true&theme=radical&title_color=d40292&text_color=cf079a&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="larissaangioni" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larissaangioni&show_icons=true&theme=radical&title_color=2bff00&text_color=cf079a&bg_color=000000&hide_border=true&locale=pt-br" alt="larissaangioni" /></p>
 
