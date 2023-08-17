@@ -16,6 +16,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
 </div>
 
+<br>
+
+
+
 <br clear="both">
 
 <img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M1Y2ZpOWtqOTFrdzdnb3o1azBtZTF0a2UzZG9vdmpxamNndmQycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif"  />
@@ -27,6 +31,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larissaangioni&show_icons=true&theme=radical&title_color=d40292&text_color=cf079a&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="larissaangioni" /></p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/larissaangioni/larissaangioni/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <a href="https://www.instagram.com/larissaangioni/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:larissaangioni@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/larissaangioni/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+</div>
