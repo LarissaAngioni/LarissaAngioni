@@ -26,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larissaangioni&show_icons=true&theme=radical&title_color=2bff00&text_color=cf079a&bg_color=000000&hide_border=true&locale=pt-br" alt="larissaangioni" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larissaangioni&show_icons=true&theme=radical&title_color=d40292&text_color=cf079a&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="larissaangioni" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/larissaangioni/larissaangioni/output/snake.svg" alt="Snake animation" />
