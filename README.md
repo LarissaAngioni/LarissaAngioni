@@ -24,7 +24,7 @@
 
 
 
- <img align="right" width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M1Y2ZpOWtqOTFrdzdnb3o1azBtZTF0a2UzZG9vdmpxamNndmQycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif"  />
+ <img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M1Y2ZpOWtqOTFrdzdnb3o1azBtZTF0a2UzZG9vdmpxamNndmQycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif"  />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=larissaangioni&theme=github-green-purple&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
