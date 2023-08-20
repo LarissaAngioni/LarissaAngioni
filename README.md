@@ -18,22 +18,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
 </div>
 
-<br>
-
-<br clear="both">
 
 
-
- <img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M1Y2ZpOWtqOTFrdzdnb3o1azBtZTF0a2UzZG9vdmpxamNndmQycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif"  />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=larissaangioni&theme=github-green-purple&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-<p>&nbsp;<img align="center" width="495" src="https://github-readme-stats.vercel.app/api?username=larissaangioni&show_icons=true&theme=radical&title_color=2bff00&text_color=cf079a&bg_color=000000&hide_border=true&locale=pt-br" alt="larissaangioni" /></p>
-
-
-
-<div align="center" >
+<div align="right" >
+   <img width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M1Y2ZpOWtqOTFrdzdnb3o1azBtZTF0a2UzZG9vdmpxamNndmQycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif"  />
+  <br>
   <a href="https://www.instagram.com/larissaangioni/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
@@ -43,4 +32,18 @@
   <a href="https://www.linkedin.com/in/larissaangioni/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+<div align="left" >
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=larissaangioni&theme=github-green-purple&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+<p>&nbsp;<img align="center" width="495" src="https://github-readme-stats.vercel.app/api?username=larissaangioni&show_icons=true&theme=radical&title_color=2bff00&text_color=cf079a&bg_color=000000&hide_border=true&locale=pt-br" alt="larissaangioni" /></p>
+
+
+
+<a href="https://www.buymeacoffee.com/larissaangioni" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
 </div>
