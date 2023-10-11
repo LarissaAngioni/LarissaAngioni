@@ -45,10 +45,7 @@
  <!-- Social links -->
    <br>
     
-  <a href="https://www.instagram.com/larissaangioni/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
-   </a>
-    
+
    <a href="mailto:larissaangioni@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
   </a>
@@ -58,17 +55,4 @@
     
   </div>
 </div>
-<!-- stats and social -->
 
-<br>
-
-<!-- Images -->
-<div align="center" style="display: flex;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M1Y2ZpOWtqOTFrdzdnb3o1azBtZTF0a2UzZG9vdmpxamNndmQycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif" style="width: 50%;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNyc3ltMW15OGwzeWxsYWh6ajdjdW9tNndwcnJvbnozNmc3YTM2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" style="width: 50%;">
-</div>
-<!-- Images -->
-
-<a href="https://www.buymeacoffee.com/larissaangioni" target="_blank"> 
-  <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width=10% alt="Buy Me A Coffee" />
-    </a>
