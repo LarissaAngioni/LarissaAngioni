@@ -1,58 +1,15 @@
-<!-- titulo -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=30&pause=1000&color=DE00D9&center=true&width=500&lines=Hi+there+%F0%9F%91%8B+;I'm+Larissa+Angioni!" alt="Typing SVG" />
-</div>
-<!-- titulo -->
 
-<!-- skill -->
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-  <!-- Your skill icons here -->
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=larissaangioni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=larissaangioni&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=larissaangioni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
-<!-- skill -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=larissaangioni&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- divisoria -->
-<div align="center">
-  <img width="100%" src="https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/miau.gif" border="0" />
-</div>
-<!-- divisoria -->
+---
+[![](https://visitcount.itsvg.in/api?id=larissaangioni&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<br>
-
-<!-- stats and social -->
-<div align="center" style="display: flex; flex-direction: row;">
-  <div style="flex: 1;">
-    <!-- GitHub Streak and stats -->
-    <img src="https://streak-stats.demolab.com?user=larissaangioni&theme=github-green-purple&locale=en_US&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-    <p><img width="495" src="https://github-readme-stats.vercel.app/api?username=larissaangioni&show_icons=true&theme=radical&title_color=2bff00&text_color=cf079a&bg_color=000000&hide_border=true&locale=en" alt="larissaangioni" /></p>
-  </div>
-  
-  <div style="flex: 1;">
- <!-- Social links -->
-   <br>
-    
-
-   <a href="mailto:larissaangioni@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/larissaangioni/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
-  </a>
-    
-  </div>
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
