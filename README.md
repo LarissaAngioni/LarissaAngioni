@@ -12,6 +12,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=larissaangioni&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
+###
+
+<img src="https://raw.githubusercontent.com/larissaangioni/larissaangioni/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=larissaangioni&icon=4&color=10)](https://visitcount.itsvg.in)
 
